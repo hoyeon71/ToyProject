@@ -1,0 +1,26 @@
+.bManage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.bManage .userM{
+    background-color: #99C7FC;
+    width: 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.bManage .bookM{
+    background-color: #99C7FC;
+    width: 500px;
+    height: 700px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.bManage span {
+    padding: 50px;
+}

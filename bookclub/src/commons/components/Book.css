@@ -1,0 +1,52 @@
+.allInfo{
+    display: flex;
+}
+
+.allInfo div{
+    border: 1px sold black;
+    line-height : 2;
+    text-align: left;
+}
+
+.information{
+    font-size: 15pt;
+    padding-right: 20%;
+    
+}
+
+.bPhoto{
+    border-right: 1px solid black;
+    padding: 40px;
+    padding-left : 40px;
+    padding-right: 40px;
+    width: 300px;
+    height: 400px;
+}
+
+.comments {
+    font-size: 20px;
+    border-top: 1px solid black;
+    line-height: 3;
+}
+.item {
+    border-bottom: 1px solid black;
+}
+.comment {
+    font-size: 20px;
+    height: 30px;
+    width: 500px;
+    margin: 5px auto;
+}
+
+.cobtn {
+    position: relative;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 15px;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.25s;
+    background-color: #99C7FC;
+    cursor: pointer;
+}
